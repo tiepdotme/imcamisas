@@ -1,13 +1,13 @@
 {
   "domain": "usetrucco.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/trucco-atemporale-preto.png",
+  "logo": "/img/uploads/logo.png",
   "name": "TRUCCO, atemporale.",
   "short_name": "TRUCCO",
   "lang": "pt_br",
@@ -15,9 +15,9 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/uploads/trucco-atemporale-preto.png",
+  "secondary_color": "#b6890c",
+  "icon": "/img/uploads/logo.png",
   "store_id": 1163,
   "description": "TRUCCO",
-  "large_icon": "/img/uploads/trucco-atemporale-preto.png"
+  "large_icon": "/img/uploads/logo.png"
 }
