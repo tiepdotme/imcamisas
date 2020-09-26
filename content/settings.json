@@ -1,23 +1,23 @@
 {
-  "store_id": 1163,
-  "name": "imcamisas",
-  "domain": "imcamisas.netlify.app",
-  "short_name": "imcamisas",
-  "description": "imcamisas",
+  "domain": "usetrucco.netlify.app",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "TRUCCO, atemporale.",
+  "short_name": "TRUCCO",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1163,
+  "description": "TRUCCO",
+  "large_icon": "/img/large-icon.png"
 }
