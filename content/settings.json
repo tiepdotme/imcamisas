@@ -1,7 +1,7 @@
 {
   "domain": "usetrucco.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-dark"
