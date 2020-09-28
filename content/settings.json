@@ -1,5 +1,5 @@
 {
-  "domain": "usetrucco.netlify.app",
+  "domain": "imcamisas.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "name": "TRUCCO, atemporale.",
-  "short_name": "TRUCCO",
+  "name": "imcamisas",
+  "short_name": "imcamisas",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#d3c717",
   "icon": "/img/uploads/logo.png",
   "store_id": 1163,
-  "description": "TRUCCO",
+  "description": "imcamisas",
   "large_icon": "/img/uploads/logo.png"
 }
