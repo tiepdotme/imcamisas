@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".product__sku {\n    display: none;\n}",
   "html_head": "",
   "html_body": ""
 }
