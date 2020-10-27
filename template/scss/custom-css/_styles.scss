@@ -56,3 +56,36 @@
     text-align: center;
   }
 }
+#product-actions div {
+  .product__prices {
+    order: 1
+  }
+  .variations {
+    order: 2
+  }
+  .variations + div {
+    order: 3
+  }
+  .variations + div + span {
+    order: 6
+  }
+  .product__customization--nome {
+    order: 4
+  }
+  .product__customization--numero {
+    order: 5
+  }
+  .product__buy {
+    order: 7
+  }
+  .mb-3 {
+    order: 8
+  }
+  .shipping-calculator {
+    order: 9
+  }
+  .product__track-price {
+    order: 10
+  }
+
+}
