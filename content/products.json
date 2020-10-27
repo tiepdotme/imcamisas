@@ -17,11 +17,11 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
-      "type": "product-description",
+      "type": "product-specifications",
       "enabled": true
     },
     {
-      "type": "product-specifications",
+      "type": "product-description",
       "enabled": true
     }
   ]
