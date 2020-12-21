@@ -28,6 +28,10 @@
       "page": 2,
       "collection_id": "5f6e83e57430f92180f5694c:categories:Futebol:/futebol",
       "sort": "news"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
