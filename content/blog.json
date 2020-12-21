@@ -1,18 +1,6 @@
 {
   "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
-  "sections": [
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    }
-  ]
+  "meta_title": "",
+  "meta_description": "",
+  "sections": []
 }
