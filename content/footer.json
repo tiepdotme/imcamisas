@@ -40,8 +40,11 @@
     "mastercard": true,
     "paypal": true,
     "citibank": false,
-    "mais": false,
+    "hiper": true,
+    "diners": true,
+    "mais": true,
+    "amex": true,
     "itau": false
   },
-  "credits": "TRUCCO"
+  "credits": ""
 }
