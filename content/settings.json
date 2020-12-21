@@ -1,5 +1,5 @@
 {
-  "domain": "imcamisas.netlify.app",
+  "domain": "imcamisas.com.br",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
@@ -8,16 +8,16 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "name": "imcamisas",
-  "short_name": "imcamisas",
+  "name": "I&M Camisas",
+  "short_name": "I&M Camisas",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo.png",
   "country_code": "BR",
   "secondary_color": "#d3c717",
   "icon": "/img/uploads/logo.png",
   "store_id": 1163,
-  "description": "I & M camisas Since 2018",
+  "description": "I&M Camisas",
   "large_icon": "/img/uploads/logo.png"
 }
