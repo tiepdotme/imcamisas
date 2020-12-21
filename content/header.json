@@ -20,7 +20,7 @@
   "categories_list": {
     "featured": [],
     "random": 10,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
