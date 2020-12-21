@@ -17,11 +17,13 @@
       "collection_id": "5f6e83e57430f92180f5694c:categories:Futebol:/futebol",
       "sort": "sales",
       "headless": true,
-      "limit": ""
+      "limit": 20,
+      "page": 2,
+      "title": "Mais vendidos"
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 2,
       "collection_id": "5f6e83e57430f92180f5694c:categories:Futebol:/futebol",
