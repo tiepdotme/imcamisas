@@ -45,6 +45,21 @@
       "page": 1,
       "sort": "slug",
       "title": "Lançamentos"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/logo-brasileirao.png",
+          "link": "https://imcamisas.com.br/campeonato-brasileiro",
+          "mobile_img": "/img/uploads/logo-brasileirao.png"
+        },
+        {
+          "img": "/img/uploads/logo-argentino.png",
+          "link": "https://imcamisas.com.br/campeonato-argentino",
+          "mobile_img": "/img/uploads/logo-argentino.png"
+        }
+      ]
     }
   ]
 }
