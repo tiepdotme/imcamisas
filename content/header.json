@@ -14,7 +14,7 @@
         "link": ""
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
