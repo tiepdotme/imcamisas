@@ -52,6 +52,21 @@
           "img": "/img/uploads/logo-bundesliga.png",
           "mobile_img": "/img/uploads/logo-bundesliga.png",
           "link": "https://imcamisas.com.br/campeonato-alemao"
+        },
+        {
+          "img": "/img/uploads/logo-la-liga.png",
+          "link": "https://imcamisas.com.br/campeonato-espanhol",
+          "mobile_img": "/img/uploads/logo-la-liga.png"
+        },
+        {
+          "img": "/img/uploads/logo-premier-league.png",
+          "link": "https://imcamisas.com.br/campeonato-ingles",
+          "mobile_img": "/img/uploads/logo-premier-league.png"
+        },
+        {
+          "img": "/img/uploads/logo-ligue-1.png",
+          "link": "https://imcamisas.com.br/campeonato-frances",
+          "mobile_img": "/img/uploads/logo-ligue-1.png"
         }
       ]
     }
