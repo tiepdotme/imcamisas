@@ -3,17 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2020-12-22T22:04:48.335Z",
-          "end": "2020-12-22T22:04:48.853Z",
-          "img": "/img/uploads/banner.jpg"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -58,6 +47,11 @@
           "img": "/img/uploads/logo-argentino.png",
           "link": "https://imcamisas.com.br/campeonato-argentino",
           "mobile_img": "/img/uploads/logo-argentino.png"
+        },
+        {
+          "img": "/img/uploads/logo-bundesliga.png",
+          "mobile_img": "/img/uploads/logo-bundesliga.png",
+          "link": "https://imcamisas.com.br/campeonato-alemao"
         }
       ]
     }
