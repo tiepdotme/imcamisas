@@ -67,6 +67,36 @@
           "img": "/img/uploads/logo-ligue-1.png",
           "link": "https://imcamisas.com.br/campeonato-frances",
           "mobile_img": "/img/uploads/logo-ligue-1.png"
+        },
+        {
+          "img": "/img/uploads/logo-italiano.png",
+          "link": "https://imcamisas.com.br/campeonato-italiano",
+          "mobile_img": "/img/uploads/logo-italiano.png"
+        },
+        {
+          "img": "/img/uploads/logo-holandes.png",
+          "link": "https://imcamisas.com.br/campeonato-holandes",
+          "mobile_img": "/img/uploads/logo-holandes.png"
+        },
+        {
+          "img": "/img/uploads/logo-portugues.png",
+          "link": "https://imcamisas.com.br/campeonato-portugues",
+          "mobile_img": "/img/uploads/logo-portugues.png"
+        },
+        {
+          "img": "/img/uploads/logo-mexicano.png",
+          "link": "https://imcamisas.com.br/campeonato-mexicano",
+          "mobile_img": "/img/uploads/logo-mexicano.png"
+        },
+        {
+          "img": "/img/uploads/logo-escoces.png",
+          "link": "https://imcamisas.com.br/campeonato-escoces",
+          "mobile_img": "/img/uploads/logo-escoces.png"
+        },
+        {
+          "img": "/img/uploads/logo-selecoes.png",
+          "link": "https://imcamisas.com.br/selecoes",
+          "mobile_img": "/img/uploads/logo-selecoes.png"
         }
       ]
     }
