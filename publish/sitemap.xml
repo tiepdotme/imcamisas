@@ -4610,7 +4610,13 @@
     </url>
   
     <url>
-      <loc>https://imcamisas.com.br/camisa-de-treino-do-manchester-united-iii-20/21-c686</loc>
+      <loc>https://imcamisas.com.br/camisa-de-treino-do-manchester-united-iv-20/21</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://imcamisas.com.br/camisa-de-treino-do-manchester-united-iv-20/21-c336</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
