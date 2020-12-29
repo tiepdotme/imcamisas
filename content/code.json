@@ -1,5 +1,5 @@
 {
-  "css": ".product__sku {\n    display: none;\n}@media(min-width: 767px) {\n  .header__toggler-icon::after {\n    content: \" MENU\"\n  }\n}",
+  "css": ".product__sku {\n    display: none;\n}@media(min-width: 767px) {\n  .header__toggler-icon::after {\n    content: \" MENU\"\n  }\n}.header__nav {\n  font-size: 60px;\n}",
   "html_head": "",
   "html_body": ""
 }
